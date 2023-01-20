@@ -1,1 +1,1 @@
-print("le ciel est bleuté"...)
+print("ghjfc,.fk")
